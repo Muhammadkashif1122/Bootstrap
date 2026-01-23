@@ -1,0 +1,160 @@
+body{
+    background-color: gray!important;
+}
+
+
+.nav-btn{
+ background-color: rgb(73, 221, 73);
+ border-radius: 12px;
+ color: black;
+ padding: 8px;
+ width: 112px;
+ height: 45px;
+ font-size: 16px;
+ font-weight: bold;
+   transform: translatey(5px);
+}
+.nav-btn:hover{
+    background-color: rgb(9, 243, 9);
+}
+.navbar{
+    height: 80px;
+    background-color: lightblue;
+}
+
+.nav-itm li a{
+    color: black!important;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.carousel-item img{
+    height: 85vh;
+}
+
+.products{
+margin-left: 12px!important;
+}
+ 
+.logo{
+    width: 110px;
+    height: 70px;
+}
+
+
+.products img{
+    width: 300px;
+    height: 300px;
+    border: none;
+    border-radius: 10px;
+}
+
+.container{
+
+}
+
+ .footer-items ul{
+    list-style: none;
+}
+
+.footer{
+    background-color: rgb(126, 48, 48);
+}
+
+
+
+   footer {
+      background-color: #222;
+      color: #fff;
+      padding: 30px 0;
+      font-family: Arial, sans-serif;
+
+    }
+
+    .footer-container {
+      max-width: 1100px;
+      margin: auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 0 20px;
+    }
+
+    .footer-section {
+      flex: 1 1 250px;
+      margin: 10px 0;
+    }
+
+    .footer-section h3 {
+      margin-bottom: 15px;
+      color: #f4f4f4;
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .footer-section ul li {
+      margin-bottom: 8px;
+    }
+
+    .footer-section ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    .footer-section ul li a:hover {
+      color: #fff;
+    }
+
+    .footer-bottom {
+      text-align: center;
+      padding-top: 15px;
+      border-top: 1px solid #444;
+      margin-top: 20px;
+      font-size: 14px;
+      color: #aaa;
+          
+
+    }
+
+.about-page img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+    .about-page{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 30vh!important;
+        gap: 300px;
+    }
+
+    .about-page h1{
+        margin-bottom: 15px;
+    }
+
+    .form form{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-top: 25vh;
+   
+    }
+
+    .form input{
+      margin: 10px;
+      width: 300px;
+      border: none;
+      border-radius: 15px;
+      padding: 5px;
+      background-color: lightblue;
+    }
+
+    .form input:hover{
+      transform: translatey(5px);
+    }
